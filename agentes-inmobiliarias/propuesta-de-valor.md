@@ -40,7 +40,7 @@ Más visitas agendadas, menos tiempo perdido en mensajes y un seguimiento que no
 | Concepto | Importe |
 | --- | --- |
 | Setup (pago único) | 1.500 € |
-| Mensualidad | 159 € al mes |
+| Mensualidad | 149 € al mes |
 
 Sustituye a los planes anteriores (Esencial y Agencia). Es la misma tarifa para agentes independientes y agencias pequeñas.
 
